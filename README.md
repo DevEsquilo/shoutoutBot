@@ -6,13 +6,13 @@ Obs: A lista é atualizada 1 vez por semana.
 # Lista inicial:
 
 
-0bratti\ 
+0bratti\
 0kami_inari\\
-aicandii\ 
-aikoioko\
-akame_yui\\\
-akane_kumasaki \
-akariinyan \ 
+aicandii\\\
+aikoioko\\\\
+akame_yui\\\\\
+akane_kumasaki\\\\\\
+akariinyan
 akayton
 alibabah
 alineihgena
