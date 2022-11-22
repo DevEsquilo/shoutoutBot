@@ -7,11 +7,11 @@ Obs: A lista é atualizada 1 vez por semana.
 
 
 0bratti\
-0kami_inari\\
-aicandii\\\
-aikoioko\\\\
-akame_yui\\\\\
-akane_kumasaki\\\\\\
+0kami_inari\
+aicandii\
+aikoioko\
+akame_yui\
+akane_kumasaki\
 akariinyan
 akayton
 alibabah
