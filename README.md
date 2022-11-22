@@ -5,7 +5,7 @@ Obs: A lista é atualizada 1 vez por semana.
 
 # Lista inicial:
 
-`
+``
 0bratti
 0kami_inari
 aicandii
@@ -961,5 +961,4 @@ tsukicos
 panzumouri
 minmini_2
 yumi_ai_
-
-`
+``
